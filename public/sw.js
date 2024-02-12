@@ -12,8 +12,7 @@ this.addEventListener("install", (event) => {
         "/users",
         "images/store.png",
         "/images/pen.png",
-
-        "/",
+        "/pages/Users",
       ]);
     })
   );
