@@ -10,6 +10,9 @@ this.addEventListener("install", (event) => {
         "/static/js/bundle.js",
         "/index.html",
         "/users",
+        "images/store.png",
+        "/images/pen.png",
+
         "/",
       ]);
     })
