@@ -25,7 +25,10 @@ function Users() {
     <div>
       Users
       {data.map((user) => (
-        <>{user.id}</>
+        <>
+          {user.id}
+          <br />
+        </>
       ))}
     </div>
   );

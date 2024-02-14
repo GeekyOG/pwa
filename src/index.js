@@ -4,9 +4,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./index.css";
 import App from "./App";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Users from "./pages/Users";
+import Home from "./Home";
+import About from "./About";
+import Users from "./Users";
 import swDev from "./swDev";
 
 const router = createBrowserRouter([
